@@ -1,0 +1,7 @@
+Flask==1.0.2
+geopy==1.18.1
+flask_table==0.5.0
+gmplot==1.2.0
+pandas==0.23.0
+xlrd==1.2.0
+gunicorn==19.9.0
